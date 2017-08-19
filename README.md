@@ -17,6 +17,8 @@ These are the solutions I got to.
 * [Mumbling](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Mumbling.py)	[~~(source)~~](https://www.codewars.com/kata/mumbling)
 * [Simple Fun #195: Guess Hat Color](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Simple%20Fun%20%23195:%20Guess%20Hat%20Color.py)	[~~(source)~~](http://www.codewars.com/kata/simple-fun-number-195-guess-hat-color/javascript)
 * [Turn any word into a beef taco](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Turn%20any%20word%20into%20a%20beef%20taco.py)	[~~(source)~~](https://www.codewars.com/kata/turn-any-word-into-a-beef-taco)
+* [Array comparator](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Array%20comparator.py)	[~~(source)~~](https://www.codewars.com/kata/array-comparator/python)
+* [Euclidean distance in n dimensions](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Euclidean%20distance%20in%20n%20dimensions.py)	[~~(source)~~](https://www.codewars.com/kata/euclidean-distance-in-n-dimensions/python)
 
 ## 8 kyu
 * [Convert boolean values to strings 'Yes' or 'No'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py)	[~~(source)~~](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
