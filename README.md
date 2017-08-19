@@ -1,6 +1,9 @@
 I've been solving some problems at [codewars](https://codewars.com) with the aim of getting used to the Python language.
 These are the solutions I got to.
 
+## 4 kyu
+* [Validate Sudoku with size `NxN`]()	[~~(source)~~](http://www.codewars.com/kata/validate-sudoku-with-size-nxn/python)
+
 ## 5 kyu
 * [Simple latin pig](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/Simple%20Pig%20Latin.py)	[~~(source)~~](https://www.codewars.com/kata/simple-pig-latin)
 
