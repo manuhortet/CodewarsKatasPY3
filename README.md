@@ -2,7 +2,7 @@ I've been solving some problems at [codewars](https://codewars.com) with the aim
 These are the solutions I got to.
 
 ## 4 kyu
-* [Validate Sudoku with size `NxN`]()	[~~(source)~~](http://www.codewars.com/kata/validate-sudoku-with-size-nxn/python)
+* [Validate Sudoku with size NxN](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Validate%20Sudoku%20with%20size%20%60NxN%60.py)	[~~(source)~~](http://www.codewars.com/kata/validate-sudoku-with-size-nxn/python)
 
 ## 5 kyu
 * [Simple latin pig](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/Simple%20Pig%20Latin.py)	[~~(source)~~](https://www.codewars.com/kata/simple-pig-latin)
