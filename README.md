@@ -7,7 +7,8 @@ These are the solutions I got to.
 ## 5 kyu
 * [Simple latin pig](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/Simple%20Pig%20Latin.py)	[~~(source)~~](https://www.codewars.com/kata/simple-pig-latin)
 * [ASCII hex converter](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/ASCII%20hex%20converter.py)	[~~(source)~~](https://www.codewars.com/kata/ascii-hex-converter/python)
-* [Maximum subarray sum]()	[~~(source)~~](https://www.codewars.com/kata/maximum-subarray-sum/python)
+* [Maximum subarray sum](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/Maximum%20subarray%20sum.py)	[~~(source)~~](https://www.codewars.com/kata/maximum-subarray-sum/python)
+* [Secret knock]()	[~~(source)~~](https://www.codewars.com/kata/secret-knock/python) (Solution for this one was taken from [here](https://github.com/the-zebulan/CodeWars/blob/master/katas/kyu_5/secret_knock.py). Craziest kata ever.)
 
 ## 6 kyu
 * [Format a string of names like 'Bart, Lisa & Maggie'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Format%20a%20string%20of%20names%20like%20'Bart%2C%20Lisa%20%26%20Maggie'..py)	
