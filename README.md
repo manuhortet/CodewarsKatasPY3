@@ -13,10 +13,12 @@ These are the solutions I got to.
 ## 6 kyu
 * [Format a string of names like 'Bart, Lisa & Maggie'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Format%20a%20string%20of%20names%20like%20'Bart%2C%20Lisa%20%26%20Maggie'..py)	
 [~~(source)~~](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/python) 
+* [Divisible Ints](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Divisible%20Ints.py)	[~~(source)~~](https://www.codewars.com/kata/divisible-ints)
 * [If you can read this...](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/If%20you%20can%20read%20this....py)	[~~(source)~~](https://www.codewars.com/kata/if-you-can-read-this-dot-dot-dot/python)
 * [Reducing by steps](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Reducing%20by%20steps.py)	[~~(source)~~](https://www.codewars.com/kata/reducing-by-steps)
 * [Simple Fun #70: Avoid Obstacles](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Simple%20Fun%20%2370:%20Avoid%20Obstacles.py)	[~~(source)~~](http://www.codewars.com/kata/simple-fun-number-70-avoid-obstacles)
 * [WeIrD StRiNg CaSe](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/WeIrD%20StRiNg%20CaSe.py)	[~~(source)~~](https://www.codewars.com/kata/weird-string-case)
+
 
 ## 7 kyu
 * [Array comparator](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Array%20comparator.py)	[~~(source)~~](https://www.codewars.com/kata/array-comparator/python)
