@@ -11,6 +11,7 @@ These are the solutions I got to.
 * [Secret knock]()	[~~(source)~~](https://www.codewars.com/kata/secret-knock/python) (Solution for this one was taken from [here](https://github.com/the-zebulan/CodeWars/blob/master/katas/kyu_5/secret_knock.py). Craziest kata ever.)
 
 ## 6 kyu
+* [up AND down]()	[~~(source)~~](https://www.codewars.com/kata/up-and-down/python)
 * [Format a string of names like 'Bart, Lisa & Maggie'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Format%20a%20string%20of%20names%20like%20'Bart%2C%20Lisa%20%26%20Maggie'..py)	
 [~~(source)~~](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/python) 
 * [Divisible Ints](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Divisible%20Ints.py)	[~~(source)~~](https://www.codewars.com/kata/divisible-ints)
@@ -32,6 +33,7 @@ These are the solutions I got to.
 
 
 ## 8 kyu
+* [Calculate BMI]()	[~~(source)~~](https://www.codewars.com/kata/calculate-bmi/python)
 * [Convert boolean values to strings 'Yes' or 'No'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py)	[~~(source)~~](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 * [Evil or Odious](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py)	[~~(source)~~](https://www.codewars.com/kata/evil-or-odious/python)
 * [Heads and Legs](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Heads%20and%20Legs.py)	[~~(source)~~](https://www.codewars.com/kata/heads-and-legs/python)
@@ -40,4 +42,4 @@ These are the solutions I got to.
 * [Reverse List Order](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Reverse%20List%20Order.py)	[~~(source)~~](https://www.codewars.com/kata/reverse-list-order/python)
 * [The 'if' function](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/The%20'if'%20function.py)	[~~(source)~~](https://www.codewars.com/kata/the-if-function/python)
 * [What is between?](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/What%20is%20between%3F.py)	[~~(source)~~](https://www.codewars.com/kata/what-is-between/python)
-* [Calculate BMI]()	[~~(source)~~](https://www.codewars.com/kata/calculate-bmi/python)
+
