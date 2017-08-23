@@ -40,3 +40,4 @@ These are the solutions I got to.
 * [Reverse List Order](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Reverse%20List%20Order.py)	[~~(source)~~](https://www.codewars.com/kata/reverse-list-order/python)
 * [The 'if' function](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/The%20'if'%20function.py)	[~~(source)~~](https://www.codewars.com/kata/the-if-function/python)
 * [What is between?](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/What%20is%20between%3F.py)	[~~(source)~~](https://www.codewars.com/kata/what-is-between/python)
+* [Calculate BMI]()	[~~(source)~~](https://www.codewars.com/kata/calculate-bmi/python)
