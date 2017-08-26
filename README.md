@@ -43,6 +43,8 @@ These are the solutions I got to.
 * [Multiply](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Multiply.py)	[~~(source)~~](https://www.codewars.com/kata/multiply)
 * [N-th Power](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/N-th%20Power.py)	[~~(source)~~](https://www.codewars.com/kata/n-th-power)
 * [Reverse List Order](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Reverse%20List%20Order.py)	[~~(source)~~](https://www.codewars.com/kata/reverse-list-order/python)
+* [Rock Paper Scissors!]()	[~~(source)~~](https://www.codewars.com/kata/rock-paper-scissors/python)
 * [The 'if' function](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/The%20'if'%20function.py)	[~~(source)~~](https://www.codewars.com/kata/the-if-function/python)
 * [What is between?](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/What%20is%20between%3F.py)	[~~(source)~~](https://www.codewars.com/kata/what-is-between/python)
+* [Welcome to the city]()	[~~(source)~~](https://www.codewars.com/kata/welcome-to-the-city/python)
 
