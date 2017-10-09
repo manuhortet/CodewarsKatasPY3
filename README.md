@@ -30,6 +30,7 @@ These are the solutions I got to.
 * [Monotone Travel](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Monotone%20Travel.py)	[~~(source)~~](https://www.codewars.com/kata/monotone-travel/python)
 * [Mumbling](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Mumbling.py)	[~~(source)~~](https://www.codewars.com/kata/mumbling)
 * [Simple Fun #195: Guess Hat Color](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Simple%20Fun%20%23195:%20Guess%20Hat%20Color.py)	[~~(source)~~](http://www.codewars.com/kata/simple-fun-number-195-guess-hat-color/javascript)
+* [Sum Times Tables](https://www.codewars.com/kata/sum-times-tables/python)		[~~(source)~~](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Sum%20Times%20Tables.py)
 * [Turn any word into a beef taco](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Turn%20any%20word%20into%20a%20beef%20taco.py)	[~~(source)~~](https://www.codewars.com/kata/turn-any-word-into-a-beef-taco)
 
 
