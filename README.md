@@ -12,15 +12,14 @@ These are the solutions I got to.
 * [Secret knock]()	[~~(source)~~](https://www.codewars.com/kata/secret-knock/python) (Solution for this one was taken from [here](https://github.com/the-zebulan/CodeWars/blob/master/katas/kyu_5/secret_knock.py). Craziest kata ever.)
 
 ## 6 kyu
-* [Alpha to Numeric and Numeric to Alpha]() [~~(source)~~](https://www.codewars.com/kata/alpha-to-numeric-and-numeric-to-alpha/python)
-* [up AND down](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/up%20AND%20down.py)	[~~(source)~~](https://www.codewars.com/kata/up-and-down/python)
-* [Format a string of names like 'Bart, Lisa & Maggie'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Format%20a%20string%20of%20names%20like%20'Bart%2C%20Lisa%20%26%20Maggie'..py)	
-[~~(source)~~](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/python) 
+* [Alpha to Numeric and Numeric to Alpha](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Alpha%20to%20Numeric%20and%20Numeric%20to%20Alpha.py) [~~(source)~~](https://www.codewars.com/kata/alpha-to-numeric-and-numeric-to-alpha/python)
 * [Divisible Ints](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Divisible%20Ints.py)	[~~(source)~~](https://www.codewars.com/kata/divisible-ints)
-* [High score table]()	[~~(source)~~](https://www.codewars.com/kata/high-score-table/python)
+* [Format a string of names like 'Bart, Lisa & Maggie'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Format%20a%20string%20of%20names%20like%20'Bart%2C%20Lisa%20%26%20Maggie'..py)	[~~(source)~~](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/python)
+* [High score table](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/High%20score%20table.py)	[~~(source)~~](https://www.codewars.com/kata/high-score-table/python)
 * [If you can read this...](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/If%20you%20can%20read%20this....py)	[~~(source)~~](https://www.codewars.com/kata/if-you-can-read-this-dot-dot-dot/python)
 * [Reducing by steps](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Reducing%20by%20steps.py)	[~~(source)~~](https://www.codewars.com/kata/reducing-by-steps)
 * [Simple Fun #70: Avoid Obstacles](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Simple%20Fun%20%2370:%20Avoid%20Obstacles.py)	[~~(source)~~](http://www.codewars.com/kata/simple-fun-number-70-avoid-obstacles)
+* [up AND down](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/up%20AND%20down.py)	[~~(source)~~](https://www.codewars.com/kata/up-and-down/python)
 * [WeIrD StRiNg CaSe](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/WeIrD%20StRiNg%20CaSe.py)	[~~(source)~~](https://www.codewars.com/kata/weird-string-case)
 
 
