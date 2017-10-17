@@ -6,11 +6,11 @@ These are the solutions I got to.
 * [Validate Sudoku with size NxN](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Validate%20Sudoku%20with%20size%20%60NxN%60.py)	[~~(source)~~](http://www.codewars.com/kata/validate-sudoku-with-size-nxn/python)
 
 ## 5 kyu
-* [Python Reflection: Disassembling the secret]()   (~~[source]~~)[https://www.codewars.com/kata/python-reflection-disassembling-the-secret/solutions/python]
+* [Python Reflection: Disassembling the secret](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/Python%20Reflection:%20Disassembling%20the%20secret.py)   [~~(source)~~](https://www.codewars.com/kata/python-reflection-disassembling-the-secret/solutions/python)
 * [Simple latin pig](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/Simple%20Pig%20Latin.py)	[~~(source)~~](https://www.codewars.com/kata/simple-pig-latin)
 * [ASCII hex converter](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/ASCII%20hex%20converter.py)	[~~(source)~~](https://www.codewars.com/kata/ascii-hex-converter/python)
 * [Maximum subarray sum](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/Maximum%20subarray%20sum.py)	[~~(source)~~](https://www.codewars.com/kata/maximum-subarray-sum/python)
-* [Secret knock]()	[~~(source)~~](https://www.codewars.com/kata/secret-knock/python) (Solution for this one was taken from [here](https://github.com/the-zebulan/CodeWars/blob/master/katas/kyu_5/secret_knock.py). Craziest kata ever.)
+* [Secret knock](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/Secret%20knock.py)	[~~(source)~~](https://www.codewars.com/kata/secret-knock/python) (Solution for this one was taken from [here](https://github.com/the-zebulan/CodeWars/blob/master/katas/kyu_5/secret_knock.py). Craziest kata ever.)
 
 ## 6 kyu
 * [Alpha to Numeric and Numeric to Alpha](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Alpha%20to%20Numeric%20and%20Numeric%20to%20Alpha.py) [~~(source)~~](https://www.codewars.com/kata/alpha-to-numeric-and-numeric-to-alpha/python)
