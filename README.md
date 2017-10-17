@@ -6,6 +6,7 @@ These are the solutions I got to.
 * [Validate Sudoku with size NxN](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Validate%20Sudoku%20with%20size%20%60NxN%60.py)	[~~(source)~~](http://www.codewars.com/kata/validate-sudoku-with-size-nxn/python)
 
 ## 5 kyu
+* [Python Reflection: Disassembling the secret]()   (~~[source]~~)[https://www.codewars.com/kata/python-reflection-disassembling-the-secret/solutions/python]
 * [Simple latin pig](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/Simple%20Pig%20Latin.py)	[~~(source)~~](https://www.codewars.com/kata/simple-pig-latin)
 * [ASCII hex converter](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/ASCII%20hex%20converter.py)	[~~(source)~~](https://www.codewars.com/kata/ascii-hex-converter/python)
 * [Maximum subarray sum](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/5%20kyu/Maximum%20subarray%20sum.py)	[~~(source)~~](https://www.codewars.com/kata/maximum-subarray-sum/python)
@@ -16,7 +17,7 @@ These are the solutions I got to.
 * [Divisible Ints](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Divisible%20Ints.py)	[~~(source)~~](https://www.codewars.com/kata/divisible-ints)
 * [Format a string of names like 'Bart, Lisa & Maggie'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Format%20a%20string%20of%20names%20like%20'Bart%2C%20Lisa%20%26%20Maggie'..py)	[~~(source)~~](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/python)
 * [High score table](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/High%20score%20table.py)	[~~(source)~~](https://www.codewars.com/kata/high-score-table/python)
-* [Good vs Evil]()  [~~(source)~~](https://www.codewars.com/kata/good-vs-evil/python)
+* [Good vs Evil](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Good%20vs%20Evil.py)  [~~(source)~~](https://www.codewars.com/kata/good-vs-evil/python)
 * [If you can read this...](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/If%20you%20can%20read%20this....py)	[~~(source)~~](https://www.codewars.com/kata/if-you-can-read-this-dot-dot-dot/python)
 * [Reducing by steps](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Reducing%20by%20steps.py)	[~~(source)~~](https://www.codewars.com/kata/reducing-by-steps)
 * [Simple Fun #70: Avoid Obstacles](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Simple%20Fun%20%2370:%20Avoid%20Obstacles.py)	[~~(source)~~](http://www.codewars.com/kata/simple-fun-number-70-avoid-obstacles)
