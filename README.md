@@ -1,6 +1,9 @@
 I've been solving some problems at [codewars](https://codewars.com) with the aim of getting used to the Python language.
 These are the solutions I got to.
 
+## 3 kyu
+* [Sudoku Solver]()     [~~(source)~~](https://www.codewars.com/kata/sudoku-solver)
+
 ## 4 kyu
 * [Snail](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Snail.py)	[~~(source)~~](http://www.codewars.com/kata/snail/python)
 * [Validate Sudoku with size NxN](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Validate%20Sudoku%20with%20size%20%60NxN%60.py)	[~~(source)~~](http://www.codewars.com/kata/validate-sudoku-with-size-nxn/python)
