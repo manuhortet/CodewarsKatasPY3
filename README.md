@@ -1,14 +1,6 @@
 I've been solving some problems at [codewars](https://codewars.com) with the aim of getting used to the Python language.
 These are the solutions I got to, ordered by difficulty.
-If you face any problem with one of my solution, don't hesitate to contact me, I'll check it and solve it :)
-
-## My profile
-I invite you to add me as a allie here!
-
-![alt text](https://www.codewars.com/users/manuhortet/badges/large)
-
-
-
+If you face any problem with one of my solutions, don't hesitate to contact me, I'll check it and solve it :)
 
 ## 2 kyu
 * [My smallest code interpreter (aka Brainf**k)]()      [~~(source)~~](https://www.codewars.com/kata/my-smallest-code-interpreter-aka-brainf-star-star-k/python)
@@ -69,3 +61,10 @@ I invite you to add me as a allie here!
 * [What is between?](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/What%20is%20between%3F.py)	[~~(source)~~](https://www.codewars.com/kata/what-is-between/python)
 * [Welcome to the city]()	[~~(source)~~](https://www.codewars.com/kata/welcome-to-the-city/python)
 
+
+
+
+## My profile at Codewars
+I invite you to add me as a allie here!
+
+![alt text](https://www.codewars.com/users/manuhortet/badges/large)
