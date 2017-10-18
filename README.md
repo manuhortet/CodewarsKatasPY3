@@ -3,10 +3,10 @@ These are the solutions I got to, ordered by difficulty.
 If you face any problem with one of my solutions, don't hesitate to contact me, I'll check it and solve it :)
 
 ## 2 kyu
-* [My smallest code interpreter (aka Brainf**k)]()      [~~(source)~~](https://www.codewars.com/kata/my-smallest-code-interpreter-aka-brainf-star-star-k/python)
+* [My smallest code interpreter (aka Brainf**k)](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/2%20kyu/My%20smallest%20code%20interpreter%20(aka%20Brainf**k).py)      [~~(source)~~](https://www.codewars.com/kata/my-smallest-code-interpreter-aka-brainf-star-star-k/python)
 
 ## 3 kyu
-* [Sudoku Solver]()     [~~(source)~~](https://www.codewars.com/kata/sudoku-solver)
+* [Sudoku Solver](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/3%20kyu/Sudoku%20Solver.py)     [~~(source)~~](https://www.codewars.com/kata/sudoku-solver)
 
 ## 4 kyu
 * [Snail](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Snail.py)	[~~(source)~~](http://www.codewars.com/kata/snail/python)
