@@ -1,8 +1,8 @@
 I've been solving some problems at [codewars](https://codewars.com) with the aim of getting used to the Python language.
-These are the solutions I got to. If you face any problem with one of my solution, don't hesitate to contact me, I'll solve it :)
+These are the solutions I got to, ordered by difficulty.
+If you face any problem with one of my solution, don't hesitate to contact me, I'll check it and solve it :)
 
-URL:https://www.codewars.com/users/manuhortet/badges/large
-
+![alt text](https://www.codewars.com/users/manuhortet/badges/large)
 
 ## 2 kyu
 * [My smallest code interpreter (aka Brainf**k)]()      [~~(source)~~](https://www.codewars.com/kata/my-smallest-code-interpreter-aka-brainf-star-star-k/python)
