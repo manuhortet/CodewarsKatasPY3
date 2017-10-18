@@ -2,7 +2,13 @@ I've been solving some problems at [codewars](https://codewars.com) with the aim
 These are the solutions I got to, ordered by difficulty.
 If you face any problem with one of my solution, don't hesitate to contact me, I'll check it and solve it :)
 
+## My profile
+I invite you to add me as a allie here!
+
 ![alt text](https://www.codewars.com/users/manuhortet/badges/large)
+
+
+
 
 ## 2 kyu
 * [My smallest code interpreter (aka Brainf**k)]()      [~~(source)~~](https://www.codewars.com/kata/my-smallest-code-interpreter-aka-brainf-star-star-k/python)
