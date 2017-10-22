@@ -50,12 +50,14 @@ If you face any problem with one of my solutions, don't hesitate to contact me, 
 
 ## 8 kyu
 * [Calculate BMI]()	[~~(source)~~](https://www.codewars.com/kata/calculate-bmi/python)
+* [CIS 122 #1 Simple Printing]()    [~~(source)~~]()
 * [Convert boolean values to strings 'Yes' or 'No'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py)	[~~(source)~~](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 * [Evil or Odious](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py)	[~~(source)~~](https://www.codewars.com/kata/evil-or-odious/python)
 * [Heads and Legs](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Heads%20and%20Legs.py)	[~~(source)~~](https://www.codewars.com/kata/heads-and-legs/python)
 * [MakeUpperCase](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/MakeUpperCase.py)	[~~(source)~~](https://www.codewars.com/kata/makeuppercase/python)
 * [Multiply](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Multiply.py)	[~~(source)~~](https://www.codewars.com/kata/multiply)
 * [N-th Power](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/N-th%20Power.py)	[~~(source)~~](https://www.codewars.com/kata/n-th-power)
+* [Name Your Python!]()     [~~(source)~~]()
 * [Remove First and Last Character](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Remove%20First%20and%20Last%20Character.py)   [~~(source)~~](https://www.codewars.com/kata/remove-first-and-last-character/python)
 * [Reverse List Order](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Reverse%20List%20Order.py)	[~~(source)~~](https://www.codewars.com/kata/reverse-list-order/python)
 * [Rock Paper Scissors!]()	[~~(source)~~](https://www.codewars.com/kata/rock-paper-scissors/python)
