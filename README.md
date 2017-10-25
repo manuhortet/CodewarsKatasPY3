@@ -6,6 +6,8 @@ If you face any problem with one of my solutions, don't hesitate to contact me, 
 * [My smallest code interpreter (aka Brainf**k)](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/2%20kyu/My%20smallest%20code%20interpreter%20(aka%20Brainf**k).py)      [~~(source)~~](https://www.codewars.com/kata/my-smallest-code-interpreter-aka-brainf-star-star-k/python)
 
 ## 3 kyu
+* [Battleship field validator](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/3%20kyu/Battleship%20field%20validator.py)    [~~(source)~~](https://www.codewars.com/kata/battleship-field-validator)
+* [Stargate SG-1: Cute and Fuzzy (Improved version)]()      [~~(source)~~](http://www.codewars.com/kata/stargate-sg-1-cute-and-fuzzy-improved-version/train/python)
 * [Sudoku Solver](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/3%20kyu/Sudoku%20Solver.py)     [~~(source)~~](https://www.codewars.com/kata/sudoku-solver)
 
 ## 4 kyu
