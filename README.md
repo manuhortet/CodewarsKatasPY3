@@ -46,29 +46,30 @@ If you face any problem with one of my solutions, don't hesitate to contact me, 
 * [IPv4 Validator](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/IPv4%20Validator.py)	[~~(source)~~](https://www.codewars.com/kata/ipv4-validator)
 * [Monotone Travel](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Monotone%20Travel.py)	[~~(source)~~](https://www.codewars.com/kata/monotone-travel/python)
 * [Mumbling](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Mumbling.py)	[~~(source)~~](https://www.codewars.com/kata/mumbling)
-* [Pig Atinlay]()   [~~(source)~~](https://www.codewars.com/kata/pig-atinlay/python)
+* [Pig Atinlay](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Pig%20Atinlay.py)   [~~(source)~~](https://www.codewars.com/kata/pig-atinlay/python)
 * [Simple Fun #195: Guess Hat Color](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Simple%20Fun%20%23195:%20Guess%20Hat%20Color.py)	[~~(source)~~](http://www.codewars.com/kata/simple-fun-number-195-guess-hat-color/javascript)
 * [Sum Times Tables](https://www.codewars.com/kata/sum-times-tables/python)		[~~(source)~~](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Sum%20Times%20Tables.py)
 * [Turn any word into a beef taco](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Turn%20any%20word%20into%20a%20beef%20taco.py)	[~~(source)~~](https://www.codewars.com/kata/turn-any-word-into-a-beef-taco)
-
+* [Where am I?]()   [~~(source)~~](https://www.codewars.com/kata/where-am-i/python)
 
 
 ## 8 kyu
 * [Calculate BMI]()	[~~(source)~~](https://www.codewars.com/kata/calculate-bmi/python)
-* [CIS 122 #1 Simple Printing]()    [~~(source)~~]()
+* [CIS 122 #1 Simple Printing](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/CIS%20122%20%231%20Simple%20Printing.py)    [~~(source)~~](https://www.codewars.com/kata/cis-122-number-1-simple-printing/python)
 * [Convert boolean values to strings 'Yes' or 'No'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py)	[~~(source)~~](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 * [Evil or Odious](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py)	[~~(source)~~](https://www.codewars.com/kata/evil-or-odious/python)
 * [Heads and Legs](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Heads%20and%20Legs.py)	[~~(source)~~](https://www.codewars.com/kata/heads-and-legs/python)
 * [MakeUpperCase](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/MakeUpperCase.py)	[~~(source)~~](https://www.codewars.com/kata/makeuppercase/python)
 * [Multiply](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Multiply.py)	[~~(source)~~](https://www.codewars.com/kata/multiply)
 * [N-th Power](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/N-th%20Power.py)	[~~(source)~~](https://www.codewars.com/kata/n-th-power)
-* [Name Your Python!]()     [~~(source)~~]()
+* [Name Your Python!](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Name%20Your%20Python!.py)     [~~(source)~~](https://www.codewars.com/kata/name-your-python)
 * [Remove First and Last Character](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Remove%20First%20and%20Last%20Character.py)   [~~(source)~~](https://www.codewars.com/kata/remove-first-and-last-character/python)
 * [Reverse List Order](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Reverse%20List%20Order.py)	[~~(source)~~](https://www.codewars.com/kata/reverse-list-order/python)
-* [Rock Paper Scissors!]()	[~~(source)~~](https://www.codewars.com/kata/rock-paper-scissors/python)
+* [Rock Paper Scissors!](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Rock%20Paper%20Scissors!.py)	[~~(source)~~](https://www.codewars.com/kata/rock-paper-scissors/python)
 * [The 'if' function](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/The%20'if'%20function.py)	[~~(source)~~](https://www.codewars.com/kata/the-if-function/python)
+* [Welcome to the city](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/Welcome%20to%20the%20city.py)	[~~(source)~~](https://www.codewars.com/kata/welcome-to-the-city/python)
 * [What is between?](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/8%20kyu/What%20is%20between%3F.py)	[~~(source)~~](https://www.codewars.com/kata/what-is-between/python)
-* [Welcome to the city]()	[~~(source)~~](https://www.codewars.com/kata/welcome-to-the-city/python)
+
 
 
 
