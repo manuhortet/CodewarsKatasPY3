@@ -7,10 +7,12 @@ If you face any problem with one of my solutions, don't hesitate to contact me, 
 
 ## 3 kyu
 * [Battleship field validator](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/3%20kyu/Battleship%20field%20validator.py)    [~~(source)~~](https://www.codewars.com/kata/battleship-field-validator)
+* [Hard Sudoku Solver]()    [~~(source)~~](https://www.codewars.com/kata/hard-sudoku-solver/train/python)
 * [Stargate SG-1: Cute and Fuzzy (Improved version)]()      [~~(source)~~](http://www.codewars.com/kata/stargate-sg-1-cute-and-fuzzy-improved-version/train/python)
 * [Sudoku Solver](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/3%20kyu/Sudoku%20Solver.py)     [~~(source)~~](https://www.codewars.com/kata/sudoku-solver)
 
 ## 4 kyu
+* [Can you really count divisors?]()    [~~(source)~~](https://www.codewars.com/kata/can-you-really-count-divisors/train/python)
 * [Snail](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Snail.py)	[~~(source)~~](http://www.codewars.com/kata/snail/python)
 * [Twice Linear]()      [~~(source)~~](https://www.codewars.com/kata/twice-linear)
 * [Validate Sudoku with size NxN](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Validate%20Sudoku%20with%20size%20%60NxN%60.py)	[~~(source)~~](http://www.codewars.com/kata/validate-sudoku-with-size-nxn/python)
@@ -44,6 +46,7 @@ If you face any problem with one of my solutions, don't hesitate to contact me, 
 * [IPv4 Validator](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/IPv4%20Validator.py)	[~~(source)~~](https://www.codewars.com/kata/ipv4-validator)
 * [Monotone Travel](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Monotone%20Travel.py)	[~~(source)~~](https://www.codewars.com/kata/monotone-travel/python)
 * [Mumbling](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Mumbling.py)	[~~(source)~~](https://www.codewars.com/kata/mumbling)
+* [Pig Atinlay]()   [~~(source)~~](https://www.codewars.com/kata/pig-atinlay/python)
 * [Simple Fun #195: Guess Hat Color](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Simple%20Fun%20%23195:%20Guess%20Hat%20Color.py)	[~~(source)~~](http://www.codewars.com/kata/simple-fun-number-195-guess-hat-color/javascript)
 * [Sum Times Tables](https://www.codewars.com/kata/sum-times-tables/python)		[~~(source)~~](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Sum%20Times%20Tables.py)
 * [Turn any word into a beef taco](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Turn%20any%20word%20into%20a%20beef%20taco.py)	[~~(source)~~](https://www.codewars.com/kata/turn-any-word-into-a-beef-taco)
