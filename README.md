@@ -3,18 +3,22 @@ These are the solutions I got to, ordered by difficulty.
 If you face any problem with one of my solutions, don't hesitate to contact me, I'll check it and solve it :)
 
 ## 2 kyu
+* [4 By 4 Skyscrapers]()    [~~(source)~~](https://www.codewars.com/kata/4-by-4-skyscrapers/python)
 * [My smallest code interpreter (aka Brainf**k)](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/2%20kyu/My%20smallest%20code%20interpreter%20(aka%20Brainf**k).py)      [~~(source)~~](https://www.codewars.com/kata/my-smallest-code-interpreter-aka-brainf-star-star-k/python)
 
 ## 3 kyu
 * [Battleship field validator](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/3%20kyu/Battleship%20field%20validator.py)    [~~(source)~~](https://www.codewars.com/kata/battleship-field-validator)
+* [Finding an appointment]()    [~~(source)~~](https://www.codewars.com/kata/finding-an-appointment/python)
 * [Hard Sudoku Solver]()    [~~(source)~~](https://www.codewars.com/kata/hard-sudoku-solver/train/python)
 * [Stargate SG-1: Cute and Fuzzy (Improved version)]()      [~~(source)~~](http://www.codewars.com/kata/stargate-sg-1-cute-and-fuzzy-improved-version/train/python)
 * [Sudoku Solver](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/3%20kyu/Sudoku%20Solver.py)     [~~(source)~~](https://www.codewars.com/kata/sudoku-solver)
 
 ## 4 kyu
+* [Binary multiple of 3]()  [~~(source)~~](https://www.codewars.com/kata/binary-multiple-of-3/python)
 * [Can you really count divisors?]()    [~~(source)~~](https://www.codewars.com/kata/can-you-really-count-divisors/train/python)
+* [Roman Numerals Decoder]()    [~~(source)~~]()
 * [Snail](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Snail.py)	[~~(source)~~](http://www.codewars.com/kata/snail/python)
-* [Twice Linear]()      [~~(source)~~](https://www.codewars.com/kata/twice-linear)
+* [Twice Linear](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Twice%20Linear.py)      [~~(source)~~](https://www.codewars.com/kata/twice-linear)
 * [Validate Sudoku with size NxN](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Validate%20Sudoku%20with%20size%20%60NxN%60.py)	[~~(source)~~](http://www.codewars.com/kata/validate-sudoku-with-size-nxn/python)
 
 ## 5 kyu
@@ -26,11 +30,11 @@ If you face any problem with one of my solutions, don't hesitate to contact me, 
 
 ## 6 kyu
 * [Alpha to Numeric and Numeric to Alpha](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Alpha%20to%20Numeric%20and%20Numeric%20to%20Alpha.py) [~~(source)~~](https://www.codewars.com/kata/alpha-to-numeric-and-numeric-to-alpha/python)
-* [Array combinations]()    [~~(source)~~](https://www.codewars.com/kata/array-combinations/python)
+* [Array combinations](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Array%20combinations.py)    [~~(source)~~](https://www.codewars.com/kata/array-combinations/python)
 * [Divisible Ints](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Divisible%20Ints.py)	[~~(source)~~](https://www.codewars.com/kata/divisible-ints)
 * [Format a string of names like 'Bart, Lisa & Maggie'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Format%20a%20string%20of%20names%20like%20'Bart%2C%20Lisa%20%26%20Maggie'..py)	[~~(source)~~](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/python)
 * [High score table](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/High%20score%20table.py)	[~~(source)~~](https://www.codewars.com/kata/high-score-table/python)
-* [Goldbach's Conjecture]()     [~~(soruce)~~](https://www.codewars.com/kata/goldbachs-conjecture-1/python)
+* [Goldbach's Conjecture](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Goldbach's%20Conjecture.py)     [~~(soruce)~~](https://www.codewars.com/kata/goldbachs-conjecture-1/python)
 * [Good vs Evil](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Good%20vs%20Evil.py)  [~~(source)~~](https://www.codewars.com/kata/good-vs-evil/python)
 * [If you can read this...](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/If%20you%20can%20read%20this....py)	[~~(source)~~](https://www.codewars.com/kata/if-you-can-read-this-dot-dot-dot/python)
 * [Reducing by steps](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Reducing%20by%20steps.py)	[~~(source)~~](https://www.codewars.com/kata/reducing-by-steps)
@@ -41,7 +45,9 @@ If you face any problem with one of my solutions, don't hesitate to contact me, 
 
 ## 7 kyu
 * [Array comparator](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Array%20comparator.py)	[~~(source)~~](https://www.codewars.com/kata/array-comparator/python)
+* [Back to Basics]()    [~~(soruce)~~](https://www.codewars.com/kata/back-to-basics/python)
 * [Compress sentences](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Compress%20sentences.py)	[~~(source)~~](https://www.codewars.com/kata/compress-sentences/python)
+* [Difference between years. (Level 1)]()   [~~(source)~~](https://www.codewars.com/kata/difference-between-years-level-1/pythons)
 * [Euclidean distance in n dimensions](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Euclidean%20distance%20in%20n%20dimensions.py)	[~~(source)~~](https://www.codewars.com/kata/euclidean-distance-in-n-dimensions/python)
 * [Heron's formula](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Heron's%20formula.py)    [~~(source)~~](https://www.codewars.com/kata/herons-formula)
 * [IPv4 Validator](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/IPv4%20Validator.py)	[~~(source)~~](https://www.codewars.com/kata/ipv4-validator)
@@ -49,6 +55,7 @@ If you face any problem with one of my solutions, don't hesitate to contact me, 
 * [Mumbling](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Mumbling.py)	[~~(source)~~](https://www.codewars.com/kata/mumbling)
 * [Pig Atinlay](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Pig%20Atinlay.py)   [~~(source)~~](https://www.codewars.com/kata/pig-atinlay/python)
 * [Simple Fun #195: Guess Hat Color](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Simple%20Fun%20%23195:%20Guess%20Hat%20Color.py)	[~~(source)~~](http://www.codewars.com/kata/simple-fun-number-195-guess-hat-color/javascript)
+* [Sorted by Last]()    [~~(source)~~](https://www.codewars.com/kata/sort-by-last-char/python)
 * [Sum Times Tables](https://www.codewars.com/kata/sum-times-tables/python)		[~~(source)~~](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Sum%20Times%20Tables.py)
 * [Turn any word into a beef taco](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Turn%20any%20word%20into%20a%20beef%20taco.py)	[~~(source)~~](https://www.codewars.com/kata/turn-any-word-into-a-beef-taco)
 * [Where am I?](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/7%20kyu/Where%20am%20I%3F.py)   [~~(source)~~](https://www.codewars.com/kata/where-am-i/python)
