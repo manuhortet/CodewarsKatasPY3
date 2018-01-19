@@ -31,6 +31,7 @@ If you face any problem with one of my solutions, don't hesitate to contact me, 
 ## 6 kyu
 * [Alpha to Numeric and Numeric to Alpha](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Alpha%20to%20Numeric%20and%20Numeric%20to%20Alpha.py) [~~(source)~~](https://www.codewars.com/kata/alpha-to-numeric-and-numeric-to-alpha/python)
 * [Array combinations](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Array%20combinations.py)    [~~(source)~~](https://www.codewars.com/kata/array-combinations/python)
+* [Calculate the area of a regular n sides polygon inside a circle of radius r]()   [~~(source)~~](https://www.codewars.com/kata/calculate-the-area-of-a-regular-n-sides-polygon-inside-a-circle-of-radius-r/python)
 * [Divisible Ints](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Divisible%20Ints.py)	[~~(source)~~](https://www.codewars.com/kata/divisible-ints)
 * [Format a string of names like 'Bart, Lisa & Maggie'](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/Format%20a%20string%20of%20names%20like%20'Bart%2C%20Lisa%20%26%20Maggie'..py)	[~~(source)~~](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/python)
 * [High score table](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/6%20kyu/High%20score%20table.py)	[~~(source)~~](https://www.codewars.com/kata/high-score-table/python)
