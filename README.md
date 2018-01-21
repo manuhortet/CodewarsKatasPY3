@@ -1,5 +1,4 @@
-I've been solving some problems at [codewars](https://codewars.com) with the aim of getting used to the Python language.
-These are the solutions I got to, ordered by difficulty.
+
 If you face any problem with one of my solutions, don't hesitate to contact me, I'll check it and solve it :)
 
 ## 2 kyu
@@ -16,6 +15,7 @@ If you face any problem with one of my solutions, don't hesitate to contact me, 
 ## 4 kyu
 * [Binary multiple of 3]()  [~~(source)~~](https://www.codewars.com/kata/binary-multiple-of-3/python)
 * [Can you really count divisors?]()    [~~(source)~~](https://www.codewars.com/kata/can-you-really-count-divisors/train/python)
+* [Design a Simple Automaton (Finite State Machine)]()  [~~(source)~~](https://www.codewars.com/kata/design-a-simple-automaton-finite-state-machine/python)
 * [Roman Numerals Decoder]()    [~~(source)~~]()
 * [Snail](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Snail.py)	[~~(source)~~](http://www.codewars.com/kata/snail/python)
 * [Twice Linear](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Twice%20Linear.py)      [~~(source)~~](https://www.codewars.com/kata/twice-linear)
