@@ -8,20 +8,20 @@ This repo is a collection of "katas" (that's how the programming problems are ca
 If you face any problem with one of my solutions, don't hesitate to contact me, I'll check it and solve it :)
 
 ## 2 kyu
-* [4 By 4 Skyscrapers]()    [(source)](https://www.codewars.com/kata/4-by-4-skyscrapers/python)
+* [4 By 4 Skyscrapers](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/2%20kyu/4%20By%204%20Skyscrapers.py)    [(source)](https://www.codewars.com/kata/4-by-4-skyscrapers/python)
 * [My smallest code interpreter (aka Brainf**k)](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/2%20kyu/My%20smallest%20code%20interpreter%20(aka%20Brainf**k).py)      [(source)](https://www.codewars.com/kata/my-smallest-code-interpreter-aka-brainf-star-star-k/python)
 
 ## 3 kyu
 * [Battleship field validator](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/3%20kyu/Battleship%20field%20validator.py)    [(source)](https://www.codewars.com/kata/battleship-field-validator)
-* [Finding an appointment]()    [(source)](https://www.codewars.com/kata/finding-an-appointment/python)
+* [Finding an appointment](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/3%20kyu/Finding%20an%20appointment.py)    [(source)](https://www.codewars.com/kata/finding-an-appointment/python)
 * [Hard Sudoku Solver]()    [(source)](https://www.codewars.com/kata/hard-sudoku-solver/train/python)
-* [Stargate SG-1: Cute and Fuzzy (Improved version)]()      [(source)](http://www.codewars.com/kata/stargate-sg-1-cute-and-fuzzy-improved-version/train/python)
+* [Stargate SG-1: Cute and Fuzzy (Improved version)](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/3%20kyu/Hard%20Sudoku%20Solver.py)      [(source)](http://www.codewars.com/kata/stargate-sg-1-cute-and-fuzzy-improved-version/train/python)
 * [Sudoku Solver](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/3%20kyu/Sudoku%20Solver.py)     [(source)](https://www.codewars.com/kata/sudoku-solver)
 
 ## 4 kyu
-* [Binary multiple of 3]()  [(source)](https://www.codewars.com/kata/binary-multiple-of-3/python)
-* [Can you really count divisors?]()    [(source)](https://www.codewars.com/kata/can-you-really-count-divisors/train/python)
-* [Design a Simple Automaton (Finite State Machine)]()  [(source)](https://www.codewars.com/kata/design-a-simple-automaton-finite-state-machine/python)
+* [Binary multiple of 3](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Binary%20multiple%20of%203.py)  [(source)](https://www.codewars.com/kata/binary-multiple-of-3/python)
+* [Can you really count divisors?](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Can%20you%20really%20count%20divisors%3F.py)    [(source)](https://www.codewars.com/kata/can-you-really-count-divisors/train/python)
+* [Design a Simple Automaton (Finite State Machine)](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Design%20a%20Simple%20Automaton%20(Finite%20State%20Machine).py)  [(source)](https://www.codewars.com/kata/design-a-simple-automaton-finite-state-machine/python)
 * [Roman Numerals Decoder]()    [(source)]()
 * [Snail](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Snail.py)	[(source)](http://www.codewars.com/kata/snail/python)
 * [Twice Linear](https://github.com/manuhortet/CodewarsKatasPY3/blob/master/4%20kyu/Twice%20Linear.py)      [(source)](https://www.codewars.com/kata/twice-linear)
